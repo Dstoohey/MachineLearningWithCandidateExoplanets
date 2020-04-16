@@ -41,6 +41,7 @@ In this homework assignment, you will need to:
 * Use `MinMaxScaler` to scale the numerical data.
 * Separate the data into training and testing data.
 
+
 ### Tune Model Parameters
 
 * Use `GridSearch` to tune model parameters.
