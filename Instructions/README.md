@@ -42,10 +42,19 @@ In this homework assignment, you will need to:
 * Separate the data into training and testing data.
 
 
-### Tune Model Parameters
+### Tune Model Parameters 
 
 * Use `GridSearch` to tune model parameters.
 * Tune and compare at least two different classifiers.
+
+
+
+try multiple
+
+logistic (use the dummy ) df approach
+SVM 
+random forest model
+
 
 ### Reporting
 
