@@ -1,5 +1,5 @@
 # **Machine Learning with Candidate Exoplanets**
-
+![MachineLearingWithCandidateExoplanets Image](MachineLearningWithCandidateExoplanets.jpg)
 **Overview:**
 
 This document will provide a sense of the general motivation for the project. It will also explain, at a high level, the technologies used and techniques deployed, as well as potential takeaways and areas for further improvement/exploration.
